@@ -1,6 +1,13 @@
 OAuthBundle
 ============
 
+WARNING
+-------
+
+**DEVELOPMENT HAS MOVED TO [claroline/Distribution](http://github.com/claroline/Distribution). THIS REPOSITORY IS NO LONGER MAINTAINED.**
+
+--------
+
 Provides a plugin for Claroline Connect platform that ennables users to connect through social login (facebook, twitter, google, linkedin, windows live)
 
 Installation
